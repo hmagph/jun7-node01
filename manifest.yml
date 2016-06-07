@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: jun7-node01
+  host: jun7-node01
+  disk_quota: 1024M
